@@ -1,0 +1,13 @@
+{
+  "name": "payshield-ai",
+  "version": "1.0.0",
+  "description": "Autonomous PayPal Dispute & Chargeback Defense Engine with AG Grid and APIMatic MCP",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}s
